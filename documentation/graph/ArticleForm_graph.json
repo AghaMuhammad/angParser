@@ -1,0 +1,216 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 76.57,
+        "y": 89.3
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 17.09,
+        "y": 73.45
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 37.6,
+        "y": 70.28
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 61.3,
+        "y": 66.9
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 0.64,
+        "y": 15.64
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 6.45,
+        "y": 77.56
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 66.53,
+        "y": 6.6
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 26.77,
+        "y": 37.47
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 28.98,
+        "y": 77.14
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 6.47,
+        "y": 81.19
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-10",
+      "coordinates": {
+        "x": 37.93,
+        "y": 63.78
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-11",
+      "coordinates": {
+        "x": 85.13,
+        "y": 73.73
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-12",
+      "coordinates": {
+        "x": 69.14,
+        "y": 20.53
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-13",
+      "coordinates": {
+        "x": 16.41,
+        "y": 14.86
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-14",
+      "coordinates": {
+        "x": 93.67,
+        "y": 6.88
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#info",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#source",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#body",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "#description",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "#title",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-10",
+      "target": "#body",
+      "action": "navigate"
+    },
+    {
+      "source": "node-11",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-12",
+      "target": "#description",
+      "action": "navigate"
+    },
+    {
+      "source": "node-13",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-14",
+      "target": "#title",
+      "action": "navigate"
+    }
+  ]
+}

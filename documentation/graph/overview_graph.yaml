@@ -1,0 +1,17 @@
+Nodes:
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: input, Event Type: valueChange
+
+Edges:
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to Unknown, Action: input

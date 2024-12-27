@@ -1,0 +1,92 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 32.85
+      'y': 25.73
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 63.74
+      'y': 26.23
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 33.33
+      'y': 97.95
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 17.99
+      'y': 89.41
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 64.9
+      'y': 70.69
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 9.2
+      'y': 62.49
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 17.08
+      'y': 25.02
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 9.73
+      'y': 84.98
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 26.49
+      'y': 63.93
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 94.32
+      'y': 79.17
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#templateData'
+    action: navigate
+  - source: node-7
+    target: '#tree'
+    action: navigate
+  - source: node-8
+    target: ../components/HeaderComponent.html
+    action: navigate
+  - source: node-9
+    target: ../components/FooterComponent.html
+    action: navigate

@@ -1,0 +1,258 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 78.92,
+        "y": 88.67
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 37.44,
+        "y": 7.91
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 23.79,
+        "y": 46.44
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 12.07,
+        "y": 30.6
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 50.98,
+        "y": 24.61
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 3.97,
+        "y": 76.99
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 76.79,
+        "y": 90.38
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 90.96,
+        "y": 55.8
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 33.59,
+        "y": 85.57
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 85.22,
+        "y": 76.88
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-10",
+      "coordinates": {
+        "x": 25.34,
+        "y": 41.1
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-11",
+      "coordinates": {
+        "x": 42.39,
+        "y": 10.02
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-12",
+      "coordinates": {
+        "x": 35.27,
+        "y": 57.18
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-13",
+      "coordinates": {
+        "x": 55.24,
+        "y": 97.43
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-14",
+      "coordinates": {
+        "x": 98.53,
+        "y": 84.63
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-15",
+      "coordinates": {
+        "x": 1.04,
+        "y": 37.35
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-16",
+      "coordinates": {
+        "x": 37.75,
+        "y": 7.21
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-17",
+      "coordinates": {
+        "x": 71.05,
+        "y": 51.18
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#info",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#source",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#tree",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "#canModify$",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "#comment",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "#delete",
+      "action": "navigate"
+    },
+    {
+      "source": "node-10",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-11",
+      "target": "../interfaces/Comment.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-12",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-13",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-14",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-15",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-16",
+      "target": "#canModify$",
+      "action": "navigate"
+    },
+    {
+      "source": "node-17",
+      "target": "Unknown",
+      "action": "navigate"
+    }
+  ]
+}

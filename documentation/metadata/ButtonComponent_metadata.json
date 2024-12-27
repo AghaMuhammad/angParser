@@ -1,0 +1,35 @@
+{
+  "name": "Example Component",
+  "elements": [
+    {
+      "id": "topButton",
+      "description": "A button element. Click Me!",
+      "action": "click",
+      "coordinates": {
+        "x": 68.72,
+        "y": 18.35
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "homeLink",
+      "description": "A a element. Home",
+      "action": "click",
+      "coordinates": {
+        "x": 53.6,
+        "y": 87.47
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "aboutLink",
+      "description": "A a element. About",
+      "action": "click",
+      "coordinates": {
+        "x": 23.06,
+        "y": 51.25
+      },
+      "eventType": "navigation"
+    }
+  ]
+}

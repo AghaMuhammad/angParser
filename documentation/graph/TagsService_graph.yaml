@@ -1,0 +1,101 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 34.09
+      'y': 45.08
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 42.81
+      'y': 62.4
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 63.41
+      'y': 67.45
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 28.53
+      'y': 49.05
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 76.98
+      'y': 82.85
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 43.16
+      'y': 3.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 24.69
+      'y': 24.13
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 82.54
+      'y': 64.38
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 68.86
+      'y': 12.3
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 99.85
+      'y': 22.4
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 60.1
+      'y': 66.43
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#getAll'
+    action: navigate
+  - source: node-7
+    target: Unknown
+    action: navigate
+  - source: node-8
+    target: Unknown
+    action: navigate
+  - source: node-9
+    target: '#getAll'
+    action: navigate
+  - source: node-10
+    target: Unknown
+    action: navigate

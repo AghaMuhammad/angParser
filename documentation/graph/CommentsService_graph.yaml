@@ -1,0 +1,291 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 25.68
+      'y': 35.47
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 71.79
+      'y': 40.26
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 28.33
+      'y': 7.04
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 12.24
+      'y': 60.05
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 97.26
+      'y': 73.11
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 90.29
+      'y': 47.94
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 13.2
+      'y': 38.38
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 37.46
+      'y': 91.34
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 98.12
+      'y': 83.48
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 49.2
+      'y': 96.17
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 36.42
+      'y': 26.07
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 77.42
+      'y': 2.04
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 89.63
+      'y': 40.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 60.78
+      'y': 34.86
+    action: navigate
+    eventType: navigation
+  - nodeId: node-14
+    coordinates:
+      x: 19.16
+      'y': 10.26
+    action: navigate
+    eventType: navigation
+  - nodeId: node-15
+    coordinates:
+      x: 51.54
+      'y': 48.54
+    action: navigate
+    eventType: navigation
+  - nodeId: node-16
+    coordinates:
+      x: 85.37
+      'y': 57.29
+    action: navigate
+    eventType: navigation
+  - nodeId: node-17
+    coordinates:
+      x: 14.45
+      'y': 99.6
+    action: navigate
+    eventType: navigation
+  - nodeId: node-18
+    coordinates:
+      x: 22.97
+      'y': 78.57
+    action: navigate
+    eventType: navigation
+  - nodeId: node-19
+    coordinates:
+      x: 35.53
+      'y': 22.93
+    action: navigate
+    eventType: navigation
+  - nodeId: node-20
+    coordinates:
+      x: 24.26
+      'y': 29.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-21
+    coordinates:
+      x: 51.37
+      'y': 43.95
+    action: navigate
+    eventType: navigation
+  - nodeId: node-22
+    coordinates:
+      x: 90.5
+      'y': 70.03
+    action: navigate
+    eventType: navigation
+  - nodeId: node-23
+    coordinates:
+      x: 8.97
+      'y': 93.15
+    action: navigate
+    eventType: navigation
+  - nodeId: node-24
+    coordinates:
+      x: 90.38
+      'y': 17.81
+    action: navigate
+    eventType: navigation
+  - nodeId: node-25
+    coordinates:
+      x: 24.4
+      'y': 1.23
+    action: navigate
+    eventType: navigation
+  - nodeId: node-26
+    coordinates:
+      x: 10.79
+      'y': 84.3
+    action: navigate
+    eventType: navigation
+  - nodeId: node-27
+    coordinates:
+      x: 59.22
+      'y': 90.82
+    action: navigate
+    eventType: navigation
+  - nodeId: node-28
+    coordinates:
+      x: 27.74
+      'y': 27.08
+    action: navigate
+    eventType: navigation
+  - nodeId: node-29
+    coordinates:
+      x: 87.52
+      'y': 92.37
+    action: navigate
+    eventType: navigation
+  - nodeId: node-30
+    coordinates:
+      x: 68.88
+      'y': 45.25
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#add'
+    action: navigate
+  - source: node-7
+    target: '#delete'
+    action: navigate
+  - source: node-8
+    target: '#getAll'
+    action: navigate
+  - source: node-9
+    target: Unknown
+    action: navigate
+  - source: node-10
+    target: Unknown
+    action: navigate
+  - source: node-11
+    target: '#add'
+    action: navigate
+  - source: node-12
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-13
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-14
+    target: Unknown
+    action: navigate
+  - source: node-15
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-16
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-17
+    target: ../interfaces/Comment.html
+    action: navigate
+  - source: node-18
+    target: Unknown
+    action: navigate
+  - source: node-19
+    target: '#delete'
+    action: navigate
+  - source: node-20
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-21
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-22
+    target: Unknown
+    action: navigate
+  - source: node-23
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-24
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-25
+    target: Unknown
+    action: navigate
+  - source: node-26
+    target: '#getAll'
+    action: navigate
+  - source: node-27
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-28
+    target: Unknown
+    action: navigate
+  - source: node-29
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-30
+    target: ../interfaces/Comment.html
+    action: navigate
