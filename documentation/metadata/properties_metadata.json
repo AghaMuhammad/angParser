@@ -1,0 +1,265 @@
+{
+  "name": "angular-realworld documentation",
+  "elements": [
+    {
+      "id": "node-0",
+      "description": "A link element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 24.68,
+        "y": 17.84
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-1",
+      "description": "A link element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 69.43,
+        "y": 32.42
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-2",
+      "description": "A link element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 9.37,
+        "y": 96.62
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-3",
+      "description": "A a element. angular-realworld documentation",
+      "action": "click",
+      "coordinates": {
+        "x": 33.99,
+        "y": 66.24
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "btn-menu",
+      "description": "A button element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 29.64,
+        "y": 29.61
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-5",
+      "description": "A input element. No description available",
+      "action": "input",
+      "coordinates": {
+        "x": 23.58,
+        "y": 50.11
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-6",
+      "description": "A input element. No description available",
+      "action": "input",
+      "coordinates": {
+        "x": 56.01,
+        "y": 93.34
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-7",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 34.98,
+        "y": 57.77
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-8",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 53.26,
+        "y": 79.59
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-9",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 57.53,
+        "y": 22.81
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-10",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 58.19,
+        "y": 42.09
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-11",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 34.82,
+        "y": 53.01
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-12",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 81.81,
+        "y": 3.82
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-13",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 54.87,
+        "y": 85.25
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-14",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 32.91,
+        "y": 98.84
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-15",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 95.28,
+        "y": 92.02
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-16",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 60.42,
+        "y": 81.47
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-17",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 78.8,
+        "y": 94.9
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-18",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 27.19,
+        "y": 74.46
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-19",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 99.83,
+        "y": 26.86
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-20",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 45.65,
+        "y": 85.69
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-21",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 52.94,
+        "y": 98.13
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-22",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 15.25,
+        "y": 60.41
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-23",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 79.37,
+        "y": 80.31
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-24",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 82.87,
+        "y": 25.35
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-25",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 38.93,
+        "y": 57.3
+      },
+      "eventType": null
+    }
+  ]
+}

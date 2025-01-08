@@ -1,0 +1,155 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 35.44
+      'y': 10.27
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 35.65
+      'y': 68.08
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 57.9
+      'y': 40.22
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 72.71
+      'y': 72.31
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 79.9
+      'y': 4.12
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 77.65
+      'y': 6.14
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 90.49
+      'y': 28.07
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 38.01
+      'y': 79.46
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 97.53
+      'y': 25.97
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 14.03
+      'y': 41.12
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 69.64
+      'y': 28.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 54.93
+      'y': 97.17
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 57.93
+      'y': 77.36
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 62.88
+      'y': 91.49
+    action: navigate
+    eventType: navigation
+  - nodeId: node-14
+    coordinates:
+      x: 73.36
+      'y': 86.75
+    action: navigate
+    eventType: navigation
+  - nodeId: node-15
+    coordinates:
+      x: 76.09
+      'y': 50.45
+    action: navigate
+    eventType: navigation
+  - nodeId: node-16
+    coordinates:
+      x: 21.29
+      'y': 44.59
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ./images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ./styles/style.css
+    action: navigate
+  - source: node-2
+    target: ./styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ./
+    action: navigate
+  - source: node-4
+    target: 'http://realworld.io'
+    action: navigate
+  - source: node-5
+    target: 'https://travis-ci.org/gothinkster/angular-realworld-example-app'
+    action: navigate
+  - source: node-6
+    target: 'https://github.com/gothinkster/realworld-example-apps'
+    action: navigate
+  - source: node-7
+    target: 'https://github.com/gothinkster/realworld'
+    action: navigate
+  - source: node-8
+    target: 'https://angular.io/styleguide'
+    action: navigate
+  - source: node-9
+    target: 'https://github.com/gothinkster/angularjs-realworld-example-app'
+    action: navigate
+  - source: node-10
+    target: 'https://thinkster.io/angularjs-es6-tutorial'
+    action: navigate
+  - source: node-11
+    target: 'https://thinkster.io/tutorials/building-real-world-angular-2-apps'
+    action: navigate
+  - source: node-12
+    target: 'https://github.com/angular/angular-cli#installation'
+    action: navigate
+  - source: node-13
+    target: 'https://yarnpkg.com'
+    action: navigate
+  - source: node-14
+    target: 'https://yarnpkg.com/en/docs/install'
+    action: navigate
+  - source: node-15
+    target: 'https://angular.realworld.io'
+    action: navigate
+  - source: node-16
+    target: 'https://thinkster.io'
+    action: navigate

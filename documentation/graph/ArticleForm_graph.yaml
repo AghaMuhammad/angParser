@@ -1,0 +1,137 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 89.06
+      'y': 22.55
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 97.52
+      'y': 60.99
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 80.39
+      'y': 9.39
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 38.07
+      'y': 78.23
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 19.93
+      'y': 55.42
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 73.79
+      'y': 71.27
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 14.73
+      'y': 73.07
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 53.79
+      'y': 67.8
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 84.67
+      'y': 67.22
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 70.4
+      'y': 95.89
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 86.33
+      'y': 43.75
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 6.24
+      'y': 30.08
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 4.51
+      'y': 99.45
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 93.82
+      'y': 79.63
+    action: navigate
+    eventType: navigation
+  - nodeId: node-14
+    coordinates:
+      x: 92.68
+      'y': 35.51
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#body'
+    action: navigate
+  - source: node-7
+    target: '#description'
+    action: navigate
+  - source: node-8
+    target: '#title'
+    action: navigate
+  - source: node-9
+    target: Unknown
+    action: navigate
+  - source: node-10
+    target: '#body'
+    action: navigate
+  - source: node-11
+    target: Unknown
+    action: navigate
+  - source: node-12
+    target: '#description'
+    action: navigate
+  - source: node-13
+    target: Unknown
+    action: navigate
+  - source: node-14
+    target: '#title'
+    action: navigate

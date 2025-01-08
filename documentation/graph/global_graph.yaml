@@ -1,0 +1,217 @@
+Nodes:
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: view, Event Type: none
+- Node ID: Node ID: node-7, Action: click, Event Type: navigation
+- Node ID: Node ID: node-8, Action: click, Event Type: navigation
+- Node ID: Node ID: node-9, Action: click, Event Type: navigation
+- Node ID: Node ID: node-10, Action: click, Event Type: navigation
+- Node ID: Node ID: node-11, Action: click, Event Type: navigation
+- Node ID: Node ID: node-12, Action: click, Event Type: navigation
+- Node ID: Node ID: node-13, Action: click, Event Type: navigation
+- Node ID: Node ID: node-14, Action: click, Event Type: navigation
+- Node ID: Node ID: node-15, Action: click, Event Type: navigation
+- Node ID: Node ID: node-16, Action: click, Event Type: navigation
+- Node ID: Node ID: node-17, Action: click, Event Type: navigation
+- Node ID: Node ID: node-18, Action: click, Event Type: navigation
+- Node ID: Node ID: node-19, Action: click, Event Type: navigation
+- Node ID: Node ID: node-20, Action: click, Event Type: navigation
+- Node ID: Node ID: node-21, Action: click, Event Type: navigation
+- Node ID: Node ID: node-22, Action: click, Event Type: navigation
+- Node ID: Node ID: node-23, Action: click, Event Type: navigation
+- Node ID: Node ID: node-24, Action: click, Event Type: navigation
+- Node ID: Node ID: node-25, Action: click, Event Type: navigation
+- Node ID: Node ID: node-26, Action: click, Event Type: navigation
+- Node ID: Node ID: node-27, Action: click, Event Type: navigation
+- Node ID: Node ID: node-28, Action: click, Event Type: navigation
+- Node ID: Node ID: node-29, Action: click, Event Type: navigation
+- Node ID: Node ID: node-30, Action: click, Event Type: navigation
+- Node ID: Node ID: node-31, Action: click, Event Type: navigation
+- Node ID: Node ID: node-32, Action: click, Event Type: navigation
+- Node ID: Node ID: node-33, Action: click, Event Type: navigation
+- Node ID: Node ID: node-34, Action: click, Event Type: navigation
+- Node ID: Node ID: node-35, Action: click, Event Type: navigation
+- Node ID: Node ID: node-36, Action: click, Event Type: navigation
+- Node ID: Node ID: node-37, Action: click, Event Type: navigation
+- Node ID: Node ID: node-38, Action: click, Event Type: navigation
+- Node ID: Node ID: node-39, Action: click, Event Type: navigation
+- Node ID: Node ID: node-40, Action: click, Event Type: navigation
+- Node ID: Node ID: node-41, Action: click, Event Type: navigation
+- Node ID: Node ID: node-42, Action: click, Event Type: navigation
+- Node ID: Node ID: node-43, Action: click, Event Type: navigation
+- Node ID: Node ID: node-44, Action: click, Event Type: navigation
+- Node ID: Node ID: node-45, Action: click, Event Type: navigation
+- Node ID: Node ID: node-46, Action: click, Event Type: navigation
+- Node ID: Node ID: node-47, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: click, Event Type: navigation
+- Node ID: Node ID: node-7, Action: view, Event Type: none
+- Node ID: Node ID: node-8, Action: click, Event Type: navigation
+- Node ID: Node ID: node-9, Action: view, Event Type: none
+- Node ID: Node ID: node-10, Action: view, Event Type: none
+- Node ID: Node ID: node-11, Action: click, Event Type: navigation
+- Node ID: Node ID: node-12, Action: click, Event Type: navigation
+- Node ID: Node ID: node-13, Action: click, Event Type: navigation
+- Node ID: Node ID: node-14, Action: click, Event Type: navigation
+- Node ID: Node ID: node-15, Action: click, Event Type: navigation
+- Node ID: Node ID: node-16, Action: click, Event Type: navigation
+- Node ID: Node ID: node-17, Action: click, Event Type: navigation
+- Node ID: Node ID: node-18, Action: click, Event Type: navigation
+- Node ID: Node ID: node-19, Action: click, Event Type: navigation
+- Node ID: Node ID: node-20, Action: click, Event Type: navigation
+- Node ID: Node ID: node-21, Action: click, Event Type: navigation
+- Node ID: Node ID: node-22, Action: view, Event Type: none
+- Node ID: Node ID: node-23, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-0, Action: none, Event Type: none
+- Node ID: Node ID: node-1, Action: none, Event Type: none
+- Node ID: Node ID: node-2, Action: none, Event Type: none
+- Node ID: Node ID: node-3, Action: click, Event Type: navigation
+- Node ID: Node ID: node-4, Action: click, Event Type: navigation
+- Node ID: Node ID: node-5, Action: input, Event Type: valueChange
+- Node ID: Node ID: node-6, Action: input, Event Type: valueChange
+
+Edges:
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to Unknown, Action: view
+- From node-7 to ./components/AppComponent.html, Action: click
+- From node-8 to ./miscellaneous/functions.html#initAuth, Action: click
+- From node-9 to ./miscellaneous/variables.html#appConfig, Action: click
+- From node-10 to ./components/AuthComponent.html, Action: click
+- From node-11 to ./interfaces/AuthForm.html, Action: click
+- From node-12 to ./directives/IfAuthenticatedDirective.html, Action: click
+- From node-13 to ./injectables/JwtService.html, Action: click
+- From node-14 to ./injectables/UserService.html, Action: click
+- From node-15 to ./interfaces/User.html, Action: click
+- From node-16 to ./miscellaneous/variables.html#apiInterceptor, Action: click
+- From node-17 to ./miscellaneous/variables.html#errorInterceptor, Action: click
+- From node-18 to ./miscellaneous/variables.html#tokenInterceptor, Action: click
+- From node-19 to ./components/FooterComponent.html, Action: click
+- From node-20 to ./components/HeaderComponent.html, Action: click
+- From node-21 to ./interfaces/Errors.html, Action: click
+- From node-22 to ./components/ArticleCommentComponent.html, Action: click
+- From node-23 to ./components/ArticleListComponent.html, Action: click
+- From node-24 to ./components/ArticleMetaComponent.html, Action: click
+- From node-25 to ./components/ArticlePreviewComponent.html, Action: click
+- From node-26 to ./components/FavoriteButtonComponent.html, Action: click
+- From node-27 to ./interfaces/ArticleListConfig.html, Action: click
+- From node-28 to ./interfaces/Article.html, Action: click
+- From node-29 to ./interfaces/Comment.html, Action: click
+- From node-30 to ./components/ArticleComponent.html, Action: click
+- From node-31 to ./components/EditorComponent.html, Action: click
+- From node-32 to ./interfaces/ArticleForm.html, Action: click
+- From node-33 to ./components/HomeComponent.html, Action: click
+- From node-34 to ./injectables/ArticlesService.html, Action: click
+- From node-35 to ./injectables/CommentsService.html, Action: click
+- From node-36 to ./injectables/TagsService.html, Action: click
+- From node-37 to ./components/FollowButtonComponent.html, Action: click
+- From node-38 to ./components/ProfileArticlesComponent.html, Action: click
+- From node-39 to ./components/ProfileFavoritesComponent.html, Action: click
+- From node-40 to ./interfaces/Profile.html, Action: click
+- From node-41 to ./components/ProfileComponent.html, Action: click
+- From node-42 to ./injectables/ProfileService.html, Action: click
+- From node-43 to ./components/SettingsComponent.html, Action: click
+- From node-44 to ./interfaces/SettingsForm.html, Action: click
+- From node-45 to ./components/ListErrorsComponent.html, Action: click
+- From node-46 to ./pipes/MarkdownPipe.html, Action: click
+- From node-47 to Unknown, Action: input
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to Unknown, Action: input
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to http://realworld.io, Action: click
+- From node-7 to Unknown, Action: view
+- From node-8 to https://travis-ci.org/gothinkster/angular-realworld-example-app, Action: click
+- From node-9 to Unknown, Action: view
+- From node-10 to Unknown, Action: view
+- From node-11 to https://github.com/gothinkster/realworld-example-apps, Action: click
+- From node-12 to https://github.com/gothinkster/realworld, Action: click
+- From node-13 to https://angular.io/styleguide, Action: click
+- From node-14 to https://github.com/gothinkster/angularjs-realworld-example-app, Action: click
+- From node-15 to https://thinkster.io/angularjs-es6-tutorial, Action: click
+- From node-16 to https://thinkster.io/tutorials/building-real-world-angular-2-apps, Action: click
+- From node-17 to https://github.com/angular/angular-cli#installation, Action: click
+- From node-18 to https://yarnpkg.com, Action: click
+- From node-19 to https://yarnpkg.com/en/docs/install, Action: click
+- From node-20 to https://angular.realworld.io, Action: click
+- From node-21 to https://thinkster.io, Action: click
+- From node-22 to Unknown, Action: view
+- From node-23 to Unknown, Action: input
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to Unknown, Action: input
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to Unknown, Action: input
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to Unknown, Action: input
+- From node-0 to ./images/favicon.ico, Action: none
+- From node-1 to ./styles/style.css, Action: none
+- From node-2 to ./styles/dark.css, Action: none
+- From node-3 to ./, Action: click
+- From node-4 to Unknown, Action: click
+- From node-5 to Unknown, Action: input
+- From node-6 to Unknown, Action: input

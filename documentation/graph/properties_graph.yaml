@@ -1,0 +1,38 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 57.54
+      'y': 93.37
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 42.81
+      'y': 20.85
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 81.65
+      'y': 61.32
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 86.24
+      'y': 1.36
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ./images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ./styles/style.css
+    action: navigate
+  - source: node-2
+    target: ./styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ./
+    action: navigate

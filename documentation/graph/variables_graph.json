@@ -1,0 +1,230 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 93.52,
+        "y": 2.69
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 92.36,
+        "y": 80.07
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 82.7,
+        "y": 80.5
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 8.92,
+        "y": 65.78
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 14.19,
+        "y": 6.39
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 86.55,
+        "y": 25.28
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 94.59,
+        "y": 61.38
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 76.13,
+        "y": 63.47
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 64,
+        "y": 8.37
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 7.05,
+        "y": 74.57
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-10",
+      "coordinates": {
+        "x": 80.93,
+        "y": 85.82
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-11",
+      "coordinates": {
+        "x": 55.29,
+        "y": 23.7
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-12",
+      "coordinates": {
+        "x": 80.34,
+        "y": 7.48
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-13",
+      "coordinates": {
+        "x": 6.45,
+        "y": 85.12
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-14",
+      "coordinates": {
+        "x": 75.22,
+        "y": 94
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-15",
+      "coordinates": {
+        "x": 57.81,
+        "y": 36.59
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#apiInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#appConfig",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#errorInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "#tokenInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "#apiInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-10",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-11",
+      "target": "#appConfig",
+      "action": "navigate"
+    },
+    {
+      "source": "node-12",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-13",
+      "target": "#errorInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-14",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-15",
+      "target": "#tokenInterceptor",
+      "action": "navigate"
+    }
+  ]
+}

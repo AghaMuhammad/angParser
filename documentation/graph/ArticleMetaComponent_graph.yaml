@@ -1,0 +1,101 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 70.92
+      'y': 45.79
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 70.4
+      'y': 79.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 31.14
+      'y': 43.84
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 37.77
+      'y': 93.89
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 20.63
+      'y': 61.5
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 94.99
+      'y': 36.28
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 31.62
+      'y': 45.02
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 1.53
+      'y': 95.12
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 7.22
+      'y': 67.84
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 14.8
+      'y': 79.75
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 93.12
+      'y': 26.73
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#tree'
+    action: navigate
+  - source: node-7
+    target: '#article'
+    action: navigate
+  - source: node-8
+    target: Unknown
+    action: navigate
+  - source: node-9
+    target: ../interfaces/Article.html
+    action: navigate
+  - source: node-10
+    target: Unknown
+    action: navigate

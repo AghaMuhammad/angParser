@@ -1,0 +1,260 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 82.38
+      'y': 61.56
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 64
+      'y': 75.77
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 24.04
+      'y': 12.42
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 22.96
+      'y': 94.28
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 14.54
+      'y': 25.7
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 99.02
+      'y': 71.63
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 84.01
+      'y': 51.45
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 75.98
+      'y': 38.02
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 66.12
+      'y': 87.17
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 98.34
+      'y': 79.86
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 12.01
+      'y': 69.9
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 33.97
+      'y': 29.51
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 93.87
+      'y': 69.56
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 55.05
+      'y': 1.11
+    action: navigate
+    eventType: navigation
+  - nodeId: node-14
+    coordinates:
+      x: 6.51
+      'y': 93.49
+    action: navigate
+    eventType: navigation
+  - nodeId: node-15
+    coordinates:
+      x: 98.19
+      'y': 3.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-16
+    coordinates:
+      x: 14.82
+      'y': 48.66
+    action: navigate
+    eventType: navigation
+  - nodeId: node-17
+    coordinates:
+      x: 33.69
+      'y': 50.85
+    action: navigate
+    eventType: navigation
+  - nodeId: node-18
+    coordinates:
+      x: 50.48
+      'y': 63.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-19
+    coordinates:
+      x: 28.81
+      'y': 83.96
+    action: navigate
+    eventType: navigation
+  - nodeId: node-20
+    coordinates:
+      x: 33.84
+      'y': 3.28
+    action: navigate
+    eventType: navigation
+  - nodeId: node-21
+    coordinates:
+      x: 82.64
+      'y': 57.05
+    action: navigate
+    eventType: navigation
+  - nodeId: node-22
+    coordinates:
+      x: 23.06
+      'y': 49.34
+    action: navigate
+    eventType: navigation
+  - nodeId: node-23
+    coordinates:
+      x: 37.58
+      'y': 13.05
+    action: navigate
+    eventType: navigation
+  - nodeId: node-24
+    coordinates:
+      x: 90.34
+      'y': 52.08
+    action: navigate
+    eventType: navigation
+  - nodeId: node-25
+    coordinates:
+      x: 88.33
+      'y': 11.85
+    action: navigate
+    eventType: navigation
+  - nodeId: node-26
+    coordinates:
+      x: 17.6
+      'y': 34.34
+    action: navigate
+    eventType: navigation
+  - nodeId: node-27
+    coordinates:
+      x: 19.93
+      'y': 56.43
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#follow'
+    action: navigate
+  - source: node-7
+    target: '#get'
+    action: navigate
+  - source: node-8
+    target: '#unfollow'
+    action: navigate
+  - source: node-9
+    target: Unknown
+    action: navigate
+  - source: node-10
+    target: Unknown
+    action: navigate
+  - source: node-11
+    target: '#follow'
+    action: navigate
+  - source: node-12
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-13
+    target: Unknown
+    action: navigate
+  - source: node-14
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-15
+    target: ../interfaces/Profile.html
+    action: navigate
+  - source: node-16
+    target: Unknown
+    action: navigate
+  - source: node-17
+    target: '#get'
+    action: navigate
+  - source: node-18
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-19
+    target: Unknown
+    action: navigate
+  - source: node-20
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-21
+    target: ../interfaces/Profile.html
+    action: navigate
+  - source: node-22
+    target: Unknown
+    action: navigate
+  - source: node-23
+    target: '#unfollow'
+    action: navigate
+  - source: node-24
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-25
+    target: Unknown
+    action: navigate
+  - source: node-26
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-27
+    target: ../interfaces/Profile.html
+    action: navigate

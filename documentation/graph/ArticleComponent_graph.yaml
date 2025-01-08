@@ -1,0 +1,887 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 33.91
+      'y': 73.9
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 18.86
+      'y': 99.31
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 56.82
+      'y': 0.66
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 53.58
+      'y': 52.75
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 3.95
+      'y': 56.21
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 6.98
+      'y': 85.32
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 36.53
+      'y': 51.91
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 51.06
+      'y': 97.1
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 48.6
+      'y': 47.93
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 7.62
+      'y': 53.73
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 62.66
+      'y': 64.2
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 62.73
+      'y': 61.69
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 80.57
+      'y': 6.83
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 49.48
+      'y': 43.32
+    action: navigate
+    eventType: navigation
+  - nodeId: node-14
+    coordinates:
+      x: 80.15
+      'y': 91.65
+    action: navigate
+    eventType: navigation
+  - nodeId: node-15
+    coordinates:
+      x: 4.47
+      'y': 15.53
+    action: navigate
+    eventType: navigation
+  - nodeId: node-16
+    coordinates:
+      x: 26.65
+      'y': 20.58
+    action: navigate
+    eventType: navigation
+  - nodeId: node-17
+    coordinates:
+      x: 47.61
+      'y': 68.19
+    action: navigate
+    eventType: navigation
+  - nodeId: node-18
+    coordinates:
+      x: 91.34
+      'y': 98.21
+    action: navigate
+    eventType: navigation
+  - nodeId: node-19
+    coordinates:
+      x: 34.51
+      'y': 57.76
+    action: navigate
+    eventType: navigation
+  - nodeId: node-20
+    coordinates:
+      x: 36.92
+      'y': 33.48
+    action: navigate
+    eventType: navigation
+  - nodeId: node-21
+    coordinates:
+      x: 76.39
+      'y': 87.17
+    action: navigate
+    eventType: navigation
+  - nodeId: node-22
+    coordinates:
+      x: 5.57
+      'y': 25.24
+    action: navigate
+    eventType: navigation
+  - nodeId: node-23
+    coordinates:
+      x: 71.22
+      'y': 89.64
+    action: navigate
+    eventType: navigation
+  - nodeId: node-24
+    coordinates:
+      x: 98.39
+      'y': 94.08
+    action: navigate
+    eventType: navigation
+  - nodeId: node-25
+    coordinates:
+      x: 98.88
+      'y': 86.66
+    action: navigate
+    eventType: navigation
+  - nodeId: node-26
+    coordinates:
+      x: 67.59
+      'y': 5.05
+    action: navigate
+    eventType: navigation
+  - nodeId: node-27
+    coordinates:
+      x: 76.99
+      'y': 21.31
+    action: navigate
+    eventType: navigation
+  - nodeId: node-28
+    coordinates:
+      x: 32.83
+      'y': 17.64
+    action: navigate
+    eventType: navigation
+  - nodeId: node-29
+    coordinates:
+      x: 57.59
+      'y': 31.94
+    action: navigate
+    eventType: navigation
+  - nodeId: node-30
+    coordinates:
+      x: 27.75
+      'y': 56.92
+    action: navigate
+    eventType: navigation
+  - nodeId: node-31
+    coordinates:
+      x: 79.19
+      'y': 30.25
+    action: navigate
+    eventType: navigation
+  - nodeId: node-32
+    coordinates:
+      x: 42.01
+      'y': 79.25
+    action: navigate
+    eventType: navigation
+  - nodeId: node-33
+    coordinates:
+      x: 1.14
+      'y': 31.79
+    action: navigate
+    eventType: navigation
+  - nodeId: node-34
+    coordinates:
+      x: 4.24
+      'y': 42.27
+    action: navigate
+    eventType: navigation
+  - nodeId: node-35
+    coordinates:
+      x: 60.45
+      'y': 87.21
+    action: navigate
+    eventType: navigation
+  - nodeId: node-36
+    coordinates:
+      x: 12.53
+      'y': 3.03
+    action: navigate
+    eventType: navigation
+  - nodeId: node-37
+    coordinates:
+      x: 1.28
+      'y': 92.63
+    action: navigate
+    eventType: navigation
+  - nodeId: node-38
+    coordinates:
+      x: 66.79
+      'y': 11.14
+    action: navigate
+    eventType: navigation
+  - nodeId: node-39
+    coordinates:
+      x: 69.27
+      'y': 83.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-40
+    coordinates:
+      x: 31.56
+      'y': 92.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-41
+    coordinates:
+      x: 98.79
+      'y': 56.51
+    action: navigate
+    eventType: navigation
+  - nodeId: node-42
+    coordinates:
+      x: 82.22
+      'y': 84.91
+    action: navigate
+    eventType: navigation
+  - nodeId: node-43
+    coordinates:
+      x: 12.42
+      'y': 28.72
+    action: navigate
+    eventType: navigation
+  - nodeId: node-44
+    coordinates:
+      x: 24.71
+      'y': 69.78
+    action: navigate
+    eventType: navigation
+  - nodeId: node-45
+    coordinates:
+      x: 52.32
+      'y': 92.32
+    action: navigate
+    eventType: navigation
+  - nodeId: node-46
+    coordinates:
+      x: 75.81
+      'y': 46.54
+    action: navigate
+    eventType: navigation
+  - nodeId: node-47
+    coordinates:
+      x: 30.07
+      'y': 54.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-48
+    coordinates:
+      x: 71.12
+      'y': 16.58
+    action: navigate
+    eventType: navigation
+  - nodeId: node-49
+    coordinates:
+      x: 53.27
+      'y': 14.93
+    action: navigate
+    eventType: navigation
+  - nodeId: node-50
+    coordinates:
+      x: 82.27
+      'y': 41.3
+    action: navigate
+    eventType: navigation
+  - nodeId: node-51
+    coordinates:
+      x: 40.42
+      'y': 37
+    action: navigate
+    eventType: navigation
+  - nodeId: node-52
+    coordinates:
+      x: 39.89
+      'y': 74.93
+    action: navigate
+    eventType: navigation
+  - nodeId: node-53
+    coordinates:
+      x: 86.14
+      'y': 84.09
+    action: navigate
+    eventType: navigation
+  - nodeId: node-54
+    coordinates:
+      x: 6.22
+      'y': 12.8
+    action: navigate
+    eventType: navigation
+  - nodeId: node-55
+    coordinates:
+      x: 37.47
+      'y': 93.96
+    action: navigate
+    eventType: navigation
+  - nodeId: node-56
+    coordinates:
+      x: 54.49
+      'y': 6.54
+    action: navigate
+    eventType: navigation
+  - nodeId: node-57
+    coordinates:
+      x: 13.59
+      'y': 25.84
+    action: navigate
+    eventType: navigation
+  - nodeId: node-58
+    coordinates:
+      x: 60.07
+      'y': 66.64
+    action: navigate
+    eventType: navigation
+  - nodeId: node-59
+    coordinates:
+      x: 97.02
+      'y': 66.1
+    action: navigate
+    eventType: navigation
+  - nodeId: node-60
+    coordinates:
+      x: 42.39
+      'y': 3.43
+    action: navigate
+    eventType: navigation
+  - nodeId: node-61
+    coordinates:
+      x: 36.12
+      'y': 37.08
+    action: navigate
+    eventType: navigation
+  - nodeId: node-62
+    coordinates:
+      x: 26.98
+      'y': 41.47
+    action: navigate
+    eventType: navigation
+  - nodeId: node-63
+    coordinates:
+      x: 5.9
+      'y': 99.3
+    action: navigate
+    eventType: navigation
+  - nodeId: node-64
+    coordinates:
+      x: 92.62
+      'y': 73.83
+    action: navigate
+    eventType: navigation
+  - nodeId: node-65
+    coordinates:
+      x: 25.44
+      'y': 90.19
+    action: navigate
+    eventType: navigation
+  - nodeId: node-66
+    coordinates:
+      x: 16.53
+      'y': 84.76
+    action: navigate
+    eventType: navigation
+  - nodeId: node-67
+    coordinates:
+      x: 9.35
+      'y': 27.43
+    action: navigate
+    eventType: navigation
+  - nodeId: node-68
+    coordinates:
+      x: 83.39
+      'y': 24.11
+    action: navigate
+    eventType: navigation
+  - nodeId: node-69
+    coordinates:
+      x: 88.85
+      'y': 81.7
+    action: navigate
+    eventType: navigation
+  - nodeId: node-70
+    coordinates:
+      x: 7.81
+      'y': 8.8
+    action: navigate
+    eventType: navigation
+  - nodeId: node-71
+    coordinates:
+      x: 1.05
+      'y': 7.9
+    action: navigate
+    eventType: navigation
+  - nodeId: node-72
+    coordinates:
+      x: 63.25
+      'y': 16.72
+    action: navigate
+    eventType: navigation
+  - nodeId: node-73
+    coordinates:
+      x: 87.98
+      'y': 65.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-74
+    coordinates:
+      x: 81.04
+      'y': 81.46
+    action: navigate
+    eventType: navigation
+  - nodeId: node-75
+    coordinates:
+      x: 88.6
+      'y': 94.78
+    action: navigate
+    eventType: navigation
+  - nodeId: node-76
+    coordinates:
+      x: 45.47
+      'y': 18.38
+    action: navigate
+    eventType: navigation
+  - nodeId: node-77
+    coordinates:
+      x: 92.74
+      'y': 36.46
+    action: navigate
+    eventType: navigation
+  - nodeId: node-78
+    coordinates:
+      x: 1.51
+      'y': 12.14
+    action: navigate
+    eventType: navigation
+  - nodeId: node-79
+    coordinates:
+      x: 75.96
+      'y': 8.69
+    action: navigate
+    eventType: navigation
+  - nodeId: node-80
+    coordinates:
+      x: 68.8
+      'y': 96.25
+    action: navigate
+    eventType: navigation
+  - nodeId: node-81
+    coordinates:
+      x: 7.45
+      'y': 31.25
+    action: navigate
+    eventType: navigation
+  - nodeId: node-82
+    coordinates:
+      x: 48.55
+      'y': 37.87
+    action: navigate
+    eventType: navigation
+  - nodeId: node-83
+    coordinates:
+      x: 9.68
+      'y': 65.37
+    action: navigate
+    eventType: navigation
+  - nodeId: node-84
+    coordinates:
+      x: 53.1
+      'y': 45.42
+    action: navigate
+    eventType: navigation
+  - nodeId: node-85
+    coordinates:
+      x: 54.07
+      'y': 22.28
+    action: navigate
+    eventType: navigation
+  - nodeId: node-86
+    coordinates:
+      x: 48.39
+      'y': 27.67
+    action: navigate
+    eventType: navigation
+  - nodeId: node-87
+    coordinates:
+      x: 24.17
+      'y': 50.51
+    action: navigate
+    eventType: navigation
+  - nodeId: node-88
+    coordinates:
+      x: 63.03
+      'y': 56.63
+    action: navigate
+    eventType: navigation
+  - nodeId: node-89
+    coordinates:
+      x: 19.64
+      'y': 56.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-90
+    coordinates:
+      x: 77.8
+      'y': 47.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-91
+    coordinates:
+      x: 21.37
+      'y': 49.92
+    action: navigate
+    eventType: navigation
+  - nodeId: node-92
+    coordinates:
+      x: 30.65
+      'y': 47.89
+    action: navigate
+    eventType: navigation
+  - nodeId: node-93
+    coordinates:
+      x: 86.45
+      'y': 83.42
+    action: navigate
+    eventType: navigation
+  - nodeId: node-94
+    coordinates:
+      x: 4.97
+      'y': 18.1
+    action: navigate
+    eventType: navigation
+  - nodeId: node-95
+    coordinates:
+      x: 35.94
+      'y': 60.85
+    action: navigate
+    eventType: navigation
+  - nodeId: node-96
+    coordinates:
+      x: 23.4
+      'y': 15.09
+    action: navigate
+    eventType: navigation
+  - nodeId: node-97
+    coordinates:
+      x: 41.62
+      'y': 77.69
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#templateData'
+    action: navigate
+  - source: node-7
+    target: '#tree'
+    action: navigate
+  - source: node-8
+    target: ../components/ArticleMetaComponent.html
+    action: navigate
+  - source: node-9
+    target: ../components/FollowButtonComponent.html
+    action: navigate
+  - source: node-10
+    target: ../components/FavoriteButtonComponent.html
+    action: navigate
+  - source: node-11
+    target: ../components/ListErrorsComponent.html
+    action: navigate
+  - source: node-12
+    target: ../components/ArticleCommentComponent.html
+    action: navigate
+  - source: node-13
+    target: ../directives/IfAuthenticatedDirective.html
+    action: navigate
+  - source: node-14
+    target: '#article'
+    action: navigate
+  - source: node-15
+    target: '#canModify'
+    action: navigate
+  - source: node-16
+    target: '#commentControl'
+    action: navigate
+  - source: node-17
+    target: '#commentFormErrors'
+    action: navigate
+  - source: node-18
+    target: '#comments'
+    action: navigate
+  - source: node-19
+    target: '#currentUser'
+    action: navigate
+  - source: node-20
+    target: '#destroyRef'
+    action: navigate
+  - source: node-21
+    target: '#isDeleting'
+    action: navigate
+  - source: node-22
+    target: '#isSubmitting'
+    action: navigate
+  - source: node-23
+    target: '#addComment'
+    action: navigate
+  - source: node-24
+    target: '#deleteArticle'
+    action: navigate
+  - source: node-25
+    target: '#deleteComment'
+    action: navigate
+  - source: node-26
+    target: '#ngOnInit'
+    action: navigate
+  - source: node-27
+    target: '#onToggleFavorite'
+    action: navigate
+  - source: node-28
+    target: '#toggleFollowing'
+    action: navigate
+  - source: node-29
+    target: ../injectables/ArticlesService.html
+    action: navigate
+  - source: node-30
+    target: ../injectables/CommentsService.html
+    action: navigate
+  - source: node-31
+    target: ../injectables/UserService.html
+    action: navigate
+  - source: node-32
+    target: Unknown
+    action: navigate
+  - source: node-33
+    target: ../injectables/ArticlesService.html
+    action: navigate
+  - source: node-34
+    target: ../injectables/CommentsService.html
+    action: navigate
+  - source: node-35
+    target: ../injectables/UserService.html
+    action: navigate
+  - source: node-36
+    target: Unknown
+    action: navigate
+  - source: node-37
+    target: '#addComment'
+    action: navigate
+  - source: node-38
+    target: Unknown
+    action: navigate
+  - source: node-39
+    target: 'https://www.typescriptlang.org/docs/handbook/basic-types.html'
+    action: navigate
+  - source: node-40
+    target: Unknown
+    action: navigate
+  - source: node-41
+    target: '#deleteArticle'
+    action: navigate
+  - source: node-42
+    target: Unknown
+    action: navigate
+  - source: node-43
+    target: 'https://www.typescriptlang.org/docs/handbook/basic-types.html'
+    action: navigate
+  - source: node-44
+    target: Unknown
+    action: navigate
+  - source: node-45
+    target: '#deleteComment'
+    action: navigate
+  - source: node-46
+    target: ../interfaces/Comment.html
+    action: navigate
+  - source: node-47
+    target: Unknown
+    action: navigate
+  - source: node-48
+    target: ../interfaces/Comment.html
+    action: navigate
+  - source: node-49
+    target: 'https://www.typescriptlang.org/docs/handbook/basic-types.html'
+    action: navigate
+  - source: node-50
+    target: Unknown
+    action: navigate
+  - source: node-51
+    target: '#ngOnInit'
+    action: navigate
+  - source: node-52
+    target: Unknown
+    action: navigate
+  - source: node-53
+    target: 'https://www.typescriptlang.org/docs/handbook/basic-types.html'
+    action: navigate
+  - source: node-54
+    target: Unknown
+    action: navigate
+  - source: node-55
+    target: '#onToggleFavorite'
+    action: navigate
+  - source: node-56
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/boolean
+    action: navigate
+  - source: node-57
+    target: Unknown
+    action: navigate
+  - source: node-58
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/boolean
+    action: navigate
+  - source: node-59
+    target: 'https://www.typescriptlang.org/docs/handbook/basic-types.html'
+    action: navigate
+  - source: node-60
+    target: Unknown
+    action: navigate
+  - source: node-61
+    target: '#toggleFollowing'
+    action: navigate
+  - source: node-62
+    target: ../interfaces/Profile.html
+    action: navigate
+  - source: node-63
+    target: Unknown
+    action: navigate
+  - source: node-64
+    target: ../interfaces/Profile.html
+    action: navigate
+  - source: node-65
+    target: 'https://www.typescriptlang.org/docs/handbook/basic-types.html'
+    action: navigate
+  - source: node-66
+    target: Unknown
+    action: navigate
+  - source: node-67
+    target: '#article'
+    action: navigate
+  - source: node-68
+    target: ../interfaces/Article.html
+    action: navigate
+  - source: node-69
+    target: Unknown
+    action: navigate
+  - source: node-70
+    target: Unknown
+    action: navigate
+  - source: node-71
+    target: '#canModify'
+    action: navigate
+  - source: node-72
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/boolean
+    action: navigate
+  - source: node-73
+    target: Unknown
+    action: navigate
+  - source: node-74
+    target: Unknown
+    action: navigate
+  - source: node-75
+    target: '#commentControl'
+    action: navigate
+  - source: node-76
+    target: Unknown
+    action: navigate
+  - source: node-77
+    target: Unknown
+    action: navigate
+  - source: node-78
+    target: '#commentFormErrors'
+    action: navigate
+  - source: node-79
+    target: ../interfaces/Errors.html
+    action: navigate
+  - source: node-80
+    target: Unknown
+    action: navigate
+  - source: node-81
+    target: Unknown
+    action: navigate
+  - source: node-82
+    target: '#comments'
+    action: navigate
+  - source: node-83
+    target: ../interfaces/Comment.html
+    action: navigate
+  - source: node-84
+    target: Unknown
+    action: navigate
+  - source: node-85
+    target: Unknown
+    action: navigate
+  - source: node-86
+    target: '#currentUser'
+    action: navigate
+  - source: node-87
+    target: ../interfaces/User.html
+    action: navigate
+  - source: node-88
+    target: Unknown
+    action: navigate
+  - source: node-89
+    target: Unknown
+    action: navigate
+  - source: node-90
+    target: '#destroyRef'
+    action: navigate
+  - source: node-91
+    target: Unknown
+    action: navigate
+  - source: node-92
+    target: Unknown
+    action: navigate
+  - source: node-93
+    target: '#isDeleting'
+    action: navigate
+  - source: node-94
+    target: Unknown
+    action: navigate
+  - source: node-95
+    target: Unknown
+    action: navigate
+  - source: node-96
+    target: '#isSubmitting'
+    action: navigate
+  - source: node-97
+    target: Unknown
+    action: navigate

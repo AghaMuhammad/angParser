@@ -1,0 +1,580 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 48.58,
+        "y": 1.09
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 67.39,
+        "y": 6.15
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 28.21,
+        "y": 19.15
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 88.04,
+        "y": 69.02
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 57.19,
+        "y": 68.43
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 78.22,
+        "y": 16.92
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 89.59,
+        "y": 81.52
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 55.35,
+        "y": 29.15
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 47.33,
+        "y": 31.67
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 29.47,
+        "y": 51.55
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-10",
+      "coordinates": {
+        "x": 43.87,
+        "y": 20.04
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-11",
+      "coordinates": {
+        "x": 30.2,
+        "y": 65.35
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-12",
+      "coordinates": {
+        "x": 38.84,
+        "y": 96.51
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-13",
+      "coordinates": {
+        "x": 44.65,
+        "y": 12.68
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-14",
+      "coordinates": {
+        "x": 69.66,
+        "y": 12.35
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-15",
+      "coordinates": {
+        "x": 23.48,
+        "y": 26.93
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-16",
+      "coordinates": {
+        "x": 28.27,
+        "y": 23.97
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-17",
+      "coordinates": {
+        "x": 67.96,
+        "y": 79.62
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-18",
+      "coordinates": {
+        "x": 83.31,
+        "y": 70.46
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-19",
+      "coordinates": {
+        "x": 9.27,
+        "y": 43.26
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-20",
+      "coordinates": {
+        "x": 53.85,
+        "y": 94.35
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-21",
+      "coordinates": {
+        "x": 15.31,
+        "y": 7.19
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-22",
+      "coordinates": {
+        "x": 44,
+        "y": 44.37
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-23",
+      "coordinates": {
+        "x": 56.27,
+        "y": 52.3
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-24",
+      "coordinates": {
+        "x": 91.55,
+        "y": 93.22
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-25",
+      "coordinates": {
+        "x": 19.06,
+        "y": 59.33
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-26",
+      "coordinates": {
+        "x": 94.34,
+        "y": 67.55
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-27",
+      "coordinates": {
+        "x": 28.65,
+        "y": 89.94
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-28",
+      "coordinates": {
+        "x": 95.89,
+        "y": 55.44
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-29",
+      "coordinates": {
+        "x": 69.55,
+        "y": 93.75
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-30",
+      "coordinates": {
+        "x": 82.13,
+        "y": 1.52
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-31",
+      "coordinates": {
+        "x": 87.56,
+        "y": 63.15
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-32",
+      "coordinates": {
+        "x": 43.28,
+        "y": 33.64
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-33",
+      "coordinates": {
+        "x": 25,
+        "y": 59.6
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-34",
+      "coordinates": {
+        "x": 8.15,
+        "y": 57.85
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-35",
+      "coordinates": {
+        "x": 76.13,
+        "y": 63.42
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-36",
+      "coordinates": {
+        "x": 77.36,
+        "y": 24.56
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-37",
+      "coordinates": {
+        "x": 79.27,
+        "y": 97.45
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-38",
+      "coordinates": {
+        "x": 97.33,
+        "y": 52.23
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-39",
+      "coordinates": {
+        "x": 83.02,
+        "y": 56.88
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-40",
+      "coordinates": {
+        "x": 39.48,
+        "y": 18.33
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#info",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#source",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#templateData",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "#tree",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "../components/FollowButtonComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "../components/FollowButtonComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-10",
+      "target": "#destroyRef",
+      "action": "navigate"
+    },
+    {
+      "source": "node-11",
+      "target": "#isUser",
+      "action": "navigate"
+    },
+    {
+      "source": "node-12",
+      "target": "#profile",
+      "action": "navigate"
+    },
+    {
+      "source": "node-13",
+      "target": "#ngOnInit",
+      "action": "navigate"
+    },
+    {
+      "source": "node-14",
+      "target": "#onToggleFollowing",
+      "action": "navigate"
+    },
+    {
+      "source": "node-15",
+      "target": "../injectables/UserService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-16",
+      "target": "../injectables/ProfileService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-17",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-18",
+      "target": "../injectables/UserService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-19",
+      "target": "../injectables/ProfileService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-20",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-21",
+      "target": "#ngOnInit",
+      "action": "navigate"
+    },
+    {
+      "source": "node-22",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-23",
+      "target": "https://www.typescriptlang.org/docs/handbook/basic-types.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-24",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-25",
+      "target": "#onToggleFollowing",
+      "action": "navigate"
+    },
+    {
+      "source": "node-26",
+      "target": "../interfaces/Profile.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-27",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-28",
+      "target": "../interfaces/Profile.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-29",
+      "target": "https://www.typescriptlang.org/docs/handbook/basic-types.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-30",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-31",
+      "target": "#destroyRef",
+      "action": "navigate"
+    },
+    {
+      "source": "node-32",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-33",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-34",
+      "target": "#isUser",
+      "action": "navigate"
+    },
+    {
+      "source": "node-35",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/boolean",
+      "action": "navigate"
+    },
+    {
+      "source": "node-36",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-37",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-38",
+      "target": "#profile",
+      "action": "navigate"
+    },
+    {
+      "source": "node-39",
+      "target": "../interfaces/Profile.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-40",
+      "target": "Unknown",
+      "action": "navigate"
+    }
+  ]
+}

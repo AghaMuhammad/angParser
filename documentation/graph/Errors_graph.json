@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 31.28,
+        "y": 13.23
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 76.67,
+        "y": 11.71
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 87.67,
+        "y": 44.24
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 98.06,
+        "y": 71.07
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 80.68,
+        "y": 96.24
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 24.99,
+        "y": 59.63
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 86.06,
+        "y": 10.03
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 13.35,
+        "y": 94.05
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 23.54,
+        "y": 6.32
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#info",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#source",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#errors",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "#errors",
+      "action": "navigate"
+    }
+  ]
+}

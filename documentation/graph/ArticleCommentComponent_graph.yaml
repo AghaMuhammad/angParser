@@ -1,0 +1,164 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 64.83
+      'y': 67
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 10.72
+      'y': 74.49
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 75.79
+      'y': 38.49
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 4.13
+      'y': 16.24
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 98.28
+      'y': 10.05
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 92.27
+      'y': 99.96
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 38.77
+      'y': 88.19
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 14.74
+      'y': 53.39
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 50.61
+      'y': 35.79
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 22.79
+      'y': 94.3
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 36.57
+      'y': 80.21
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 5.01
+      'y': 22.32
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 46.63
+      'y': 90.71
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 21.6
+      'y': 18.45
+    action: navigate
+    eventType: navigation
+  - nodeId: node-14
+    coordinates:
+      x: 54
+      'y': 7.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-15
+    coordinates:
+      x: 76.51
+      'y': 19.45
+    action: navigate
+    eventType: navigation
+  - nodeId: node-16
+    coordinates:
+      x: 6.02
+      'y': 43.57
+    action: navigate
+    eventType: navigation
+  - nodeId: node-17
+    coordinates:
+      x: 14.38
+      'y': 23.61
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#tree'
+    action: navigate
+  - source: node-7
+    target: '#canModify$'
+    action: navigate
+  - source: node-8
+    target: '#comment'
+    action: navigate
+  - source: node-9
+    target: '#delete'
+    action: navigate
+  - source: node-10
+    target: Unknown
+    action: navigate
+  - source: node-11
+    target: ../interfaces/Comment.html
+    action: navigate
+  - source: node-12
+    target: Unknown
+    action: navigate
+  - source: node-13
+    target: Unknown
+    action: navigate
+  - source: node-14
+    target: Unknown
+    action: navigate
+  - source: node-15
+    target: Unknown
+    action: navigate
+  - source: node-16
+    target: '#canModify$'
+    action: navigate
+  - source: node-17
+    target: Unknown
+    action: navigate

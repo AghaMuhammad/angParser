@@ -1,0 +1,622 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 96.32,
+        "y": 0.92
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 44.87,
+        "y": 13.67
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 3.18,
+        "y": 88.15
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 74.47,
+        "y": 66.61
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 8.4,
+        "y": 70.52
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 47.9,
+        "y": 84.56
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 25.78,
+        "y": 70.16
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 26.53,
+        "y": 85.78
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 97.78,
+        "y": 61.59
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 30.65,
+        "y": 63.55
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-10",
+      "coordinates": {
+        "x": 70.17,
+        "y": 9.21
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-11",
+      "coordinates": {
+        "x": 45.35,
+        "y": 21.46
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-12",
+      "coordinates": {
+        "x": 16.8,
+        "y": 99.6
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-13",
+      "coordinates": {
+        "x": 39.54,
+        "y": 63.28
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-14",
+      "coordinates": {
+        "x": 50.54,
+        "y": 48.85
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-15",
+      "coordinates": {
+        "x": 45.08,
+        "y": 87.14
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-16",
+      "coordinates": {
+        "x": 65.51,
+        "y": 29.04
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-17",
+      "coordinates": {
+        "x": 86.62,
+        "y": 13.66
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-18",
+      "coordinates": {
+        "x": 93.02,
+        "y": 69.2
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-19",
+      "coordinates": {
+        "x": 91.92,
+        "y": 5.38
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-20",
+      "coordinates": {
+        "x": 50.51,
+        "y": 55.49
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-21",
+      "coordinates": {
+        "x": 34.4,
+        "y": 41.69
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-22",
+      "coordinates": {
+        "x": 63.87,
+        "y": 17.94
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-23",
+      "coordinates": {
+        "x": 26.32,
+        "y": 57.18
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-24",
+      "coordinates": {
+        "x": 93.49,
+        "y": 87.8
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-25",
+      "coordinates": {
+        "x": 4.24,
+        "y": 79.72
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-26",
+      "coordinates": {
+        "x": 10.1,
+        "y": 97.32
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-27",
+      "coordinates": {
+        "x": 31.03,
+        "y": 21.13
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-28",
+      "coordinates": {
+        "x": 15.84,
+        "y": 24.16
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-29",
+      "coordinates": {
+        "x": 47.71,
+        "y": 94.01
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-30",
+      "coordinates": {
+        "x": 44.34,
+        "y": 6.16
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-31",
+      "coordinates": {
+        "x": 50.61,
+        "y": 55.5
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-32",
+      "coordinates": {
+        "x": 15.54,
+        "y": 15.38
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-33",
+      "coordinates": {
+        "x": 12.7,
+        "y": 48.8
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-34",
+      "coordinates": {
+        "x": 78.21,
+        "y": 63.94
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-35",
+      "coordinates": {
+        "x": 53.15,
+        "y": 7.11
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-36",
+      "coordinates": {
+        "x": 43.02,
+        "y": 71.61
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-37",
+      "coordinates": {
+        "x": 24.68,
+        "y": 20.15
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-38",
+      "coordinates": {
+        "x": 34.79,
+        "y": 43.87
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-39",
+      "coordinates": {
+        "x": 54.33,
+        "y": 50.56
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-40",
+      "coordinates": {
+        "x": 35.74,
+        "y": 63.61
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-41",
+      "coordinates": {
+        "x": 30.27,
+        "y": 8.67
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-42",
+      "coordinates": {
+        "x": 20.74,
+        "y": 89.4
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-43",
+      "coordinates": {
+        "x": 22.25,
+        "y": 23.8
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "./images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "./styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "./styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "./",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "./components/AppComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "./miscellaneous/functions.html#initAuth",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "./miscellaneous/variables.html#appConfig",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "./components/AuthComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "./interfaces/AuthForm.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "./directives/IfAuthenticatedDirective.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-10",
+      "target": "./injectables/JwtService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-11",
+      "target": "./injectables/UserService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-12",
+      "target": "./interfaces/User.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-13",
+      "target": "./miscellaneous/variables.html#apiInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-14",
+      "target": "./miscellaneous/variables.html#errorInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-15",
+      "target": "./miscellaneous/variables.html#tokenInterceptor",
+      "action": "navigate"
+    },
+    {
+      "source": "node-16",
+      "target": "./components/FooterComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-17",
+      "target": "./components/HeaderComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-18",
+      "target": "./interfaces/Errors.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-19",
+      "target": "./components/ArticleCommentComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-20",
+      "target": "./components/ArticleListComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-21",
+      "target": "./components/ArticleMetaComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-22",
+      "target": "./components/ArticlePreviewComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-23",
+      "target": "./components/FavoriteButtonComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-24",
+      "target": "./interfaces/ArticleListConfig.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-25",
+      "target": "./interfaces/Article.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-26",
+      "target": "./interfaces/Comment.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-27",
+      "target": "./components/ArticleComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-28",
+      "target": "./components/EditorComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-29",
+      "target": "./interfaces/ArticleForm.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-30",
+      "target": "./components/HomeComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-31",
+      "target": "./injectables/ArticlesService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-32",
+      "target": "./injectables/CommentsService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-33",
+      "target": "./injectables/TagsService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-34",
+      "target": "./components/FollowButtonComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-35",
+      "target": "./components/ProfileArticlesComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-36",
+      "target": "./components/ProfileFavoritesComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-37",
+      "target": "./interfaces/Profile.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-38",
+      "target": "./components/ProfileComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-39",
+      "target": "./injectables/ProfileService.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-40",
+      "target": "./components/SettingsComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-41",
+      "target": "./interfaces/SettingsForm.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-42",
+      "target": "./components/ListErrorsComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-43",
+      "target": "./pipes/MarkdownPipe.html",
+      "action": "navigate"
+    }
+  ]
+}

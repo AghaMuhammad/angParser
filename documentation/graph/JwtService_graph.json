@@ -1,0 +1,328 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 46.87,
+        "y": 55.3
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 35.97,
+        "y": 30.95
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 90.69,
+        "y": 95.76
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 83,
+        "y": 99.81
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 7.38,
+        "y": 34.94
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 80.16,
+        "y": 46.08
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 70.25,
+        "y": 63.95
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 81.65,
+        "y": 28.66
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 84.55,
+        "y": 86.5
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 99.33,
+        "y": 97.25
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-10",
+      "coordinates": {
+        "x": 20.87,
+        "y": 59.17
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-11",
+      "coordinates": {
+        "x": 1.89,
+        "y": 68.51
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-12",
+      "coordinates": {
+        "x": 31.14,
+        "y": 86.78
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-13",
+      "coordinates": {
+        "x": 60.43,
+        "y": 76.77
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-14",
+      "coordinates": {
+        "x": 42.87,
+        "y": 73.31
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-15",
+      "coordinates": {
+        "x": 6.67,
+        "y": 4.19
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-16",
+      "coordinates": {
+        "x": 36.8,
+        "y": 57.9
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-17",
+      "coordinates": {
+        "x": 23.93,
+        "y": 18.5
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-18",
+      "coordinates": {
+        "x": 71.72,
+        "y": 13.2
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-19",
+      "coordinates": {
+        "x": 39.38,
+        "y": 56.33
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-20",
+      "coordinates": {
+        "x": 61.49,
+        "y": 51.3
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-21",
+      "coordinates": {
+        "x": 65.3,
+        "y": 78.58
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-22",
+      "coordinates": {
+        "x": 48.91,
+        "y": 13.17
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#info",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#source",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#destroyToken",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "#getToken",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "#saveToken",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-10",
+      "target": "#destroyToken",
+      "action": "navigate"
+    },
+    {
+      "source": "node-11",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-12",
+      "target": "https://www.typescriptlang.org/docs/handbook/basic-types.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-13",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-14",
+      "target": "#getToken",
+      "action": "navigate"
+    },
+    {
+      "source": "node-15",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-16",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-17",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-18",
+      "target": "#saveToken",
+      "action": "navigate"
+    },
+    {
+      "source": "node-19",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-20",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-21",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-22",
+      "target": "https://www.typescriptlang.org/docs/handbook/basic-types.html",
+      "action": "navigate"
+    }
+  ]
+}

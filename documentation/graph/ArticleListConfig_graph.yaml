@@ -1,0 +1,130 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 24.43
+      'y': 96.81
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 4.16
+      'y': 53.25
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 83.82
+      'y': 51.62
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 13.43
+      'y': 83.18
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 38.01
+      'y': 81.33
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 24.69
+      'y': 84.05
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 32.64
+      'y': 42.16
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 76.09
+      'y': 74.15
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 97.77
+      'y': 88.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 82.34
+      'y': 19.46
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 83.19
+      'y': 36.91
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 33.22
+      'y': 1.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 60.36
+      'y': 15.71
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 77.81
+      'y': 82.12
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#filters'
+    action: navigate
+  - source: node-7
+    target: '#type'
+    action: navigate
+  - source: node-8
+    target: Unknown
+    action: navigate
+  - source: node-9
+    target: '#filters'
+    action: navigate
+  - source: node-10
+    target: Unknown
+    action: navigate
+  - source: node-11
+    target: '#type'
+    action: navigate
+  - source: node-12
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate
+  - source: node-13
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string
+    action: navigate

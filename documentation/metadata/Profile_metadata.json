@@ -1,0 +1,485 @@
+{
+  "name": "angular-realworld documentation",
+  "elements": [
+    {
+      "id": "node-0",
+      "description": "A link element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 61.85,
+        "y": 68.95
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-1",
+      "description": "A link element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 41.06,
+        "y": 96.22
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-2",
+      "description": "A link element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 59.09,
+        "y": 8.25
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-3",
+      "description": "A a element. angular-realworld documentation",
+      "action": "click",
+      "coordinates": {
+        "x": 41.56,
+        "y": 90.95
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "btn-menu",
+      "description": "A button element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 78.36,
+        "y": 3.5
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-5",
+      "description": "A input element. No description available",
+      "action": "input",
+      "coordinates": {
+        "x": 96.28,
+        "y": 19.83
+      },
+      "eventType": null
+    },
+    {
+      "id": "info-tab",
+      "description": "A a element. Info",
+      "action": "click",
+      "coordinates": {
+        "x": 56.96,
+        "y": 35.99
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "source-tab",
+      "description": "A a element. Source",
+      "action": "click",
+      "coordinates": {
+        "x": 52.26,
+        "y": 65.75
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-8",
+      "description": "A a element. bio",
+      "action": "click",
+      "coordinates": {
+        "x": 99.62,
+        "y": 30.18
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-9",
+      "description": "A a element. following",
+      "action": "click",
+      "coordinates": {
+        "x": 19.25,
+        "y": 73.12
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-10",
+      "description": "A a element. image",
+      "action": "click",
+      "coordinates": {
+        "x": 48.62,
+        "y": 99.86
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-11",
+      "description": "A a element. username",
+      "action": "click",
+      "coordinates": {
+        "x": 58.22,
+        "y": 92.78
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-12",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 12.45,
+        "y": 91.52
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-13",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 32,
+        "y": 32.85
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-14",
+      "description": "A a element. string",
+      "action": "click",
+      "coordinates": {
+        "x": 95.99,
+        "y": 31.46
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-15",
+      "description": "A a element. string",
+      "action": "click",
+      "coordinates": {
+        "x": 13.43,
+        "y": 27.86
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-16",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 91.74,
+        "y": 36.14
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-17",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 48.83,
+        "y": 35.53
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-18",
+      "description": "A a element. boolean",
+      "action": "click",
+      "coordinates": {
+        "x": 24.96,
+        "y": 61.75
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-19",
+      "description": "A a element. boolean",
+      "action": "click",
+      "coordinates": {
+        "x": 73.12,
+        "y": 73.56
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-20",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 83.13,
+        "y": 64.83
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-21",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 88.05,
+        "y": 96.87
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-22",
+      "description": "A a element. string",
+      "action": "click",
+      "coordinates": {
+        "x": 89.94,
+        "y": 31.21
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-23",
+      "description": "A a element. string",
+      "action": "click",
+      "coordinates": {
+        "x": 87.07,
+        "y": 8.41
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-24",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 69.3,
+        "y": 56.99
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-25",
+      "description": "A a element. No description available",
+      "action": "click",
+      "coordinates": {
+        "x": 38.43,
+        "y": 25.77
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-26",
+      "description": "A a element. string",
+      "action": "click",
+      "coordinates": {
+        "x": 65.44,
+        "y": 74.43
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-27",
+      "description": "A a element. string",
+      "action": "click",
+      "coordinates": {
+        "x": 51.26,
+        "y": 15.41
+      },
+      "eventType": "navigation"
+    },
+    {
+      "id": "node-28",
+      "description": "A input element. No description available",
+      "action": "input",
+      "coordinates": {
+        "x": 74.53,
+        "y": 53.72
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-29",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 26.34,
+        "y": 38.69
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-30",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 47.22,
+        "y": 59.23
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-31",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 21.35,
+        "y": 86.31
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-32",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 26.07,
+        "y": 78.05
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-33",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 43.66,
+        "y": 3.47
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-34",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 20.41,
+        "y": 11.12
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-35",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 99.87,
+        "y": 56.47
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-36",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 49.76,
+        "y": 43.95
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-37",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 39.46,
+        "y": 91.7
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-38",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 55.07,
+        "y": 85.9
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-39",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 80.5,
+        "y": 42.3
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-40",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 71.67,
+        "y": 28.9
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-41",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 48.55,
+        "y": 64.03
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-42",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 80.78,
+        "y": 57.36
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-43",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 38.56,
+        "y": 58.74
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-44",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 17.06,
+        "y": 41.43
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-45",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 5.82,
+        "y": 17.62
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-46",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 31.37,
+        "y": 92.07
+      },
+      "eventType": null
+    },
+    {
+      "id": "node-47",
+      "description": "A script element. No description available",
+      "action": null,
+      "coordinates": {
+        "x": 50.48,
+        "y": 56.58
+      },
+      "eventType": null
+    }
+  ]
+}

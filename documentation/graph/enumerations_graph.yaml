@@ -1,0 +1,65 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 53.6
+      'y': 55.21
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 36.16
+      'y': 64.43
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 91.33
+      'y': 45.88
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 15.41
+      'y': 59.77
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 83.33
+      'y': 10.09
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 32.9
+      'y': 22.24
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 22.17
+      'y': 43.32
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#LoadingState'
+    action: navigate
+  - source: node-5
+    target: Unknown
+    action: navigate
+  - source: node-6
+    target: '#LoadingState'
+    action: navigate

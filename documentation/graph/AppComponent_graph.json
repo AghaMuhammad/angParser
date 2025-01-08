@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 70.94,
+        "y": 67.95
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 58.53,
+        "y": 51.01
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 84.64,
+        "y": 49.71
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 70.54,
+        "y": 57.3
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 8.64,
+        "y": 89.13
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 22.3,
+        "y": 26
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 50.93,
+        "y": 72.31
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 93.38,
+        "y": 21.76
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 91.27,
+        "y": 5.51
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 56.5,
+        "y": 63.81
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#info",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#source",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#templateData",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "#tree",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "../components/HeaderComponent.html",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "../components/FooterComponent.html",
+      "action": "navigate"
+    }
+  ]
+}

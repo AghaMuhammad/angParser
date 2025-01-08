@@ -1,0 +1,184 @@
+nodes:
+  - nodeId: node-0
+    coordinates:
+      x: 9.7
+      'y': 88.29
+    action: navigate
+    eventType: navigation
+  - nodeId: node-1
+    coordinates:
+      x: 55.97
+      'y': 36.9
+    action: navigate
+    eventType: navigation
+  - nodeId: node-2
+    coordinates:
+      x: 94.86
+      'y': 66.06
+    action: navigate
+    eventType: navigation
+  - nodeId: node-3
+    coordinates:
+      x: 78.36
+      'y': 20.39
+    action: navigate
+    eventType: navigation
+  - nodeId: node-4
+    coordinates:
+      x: 61.65
+      'y': 7.27
+    action: navigate
+    eventType: navigation
+  - nodeId: node-5
+    coordinates:
+      x: 60.72
+      'y': 37.26
+    action: navigate
+    eventType: navigation
+  - nodeId: node-6
+    coordinates:
+      x: 25.1
+      'y': 94.29
+    action: navigate
+    eventType: navigation
+  - nodeId: node-7
+    coordinates:
+      x: 21.43
+      'y': 94.71
+    action: navigate
+    eventType: navigation
+  - nodeId: node-8
+    coordinates:
+      x: 87.51
+      'y': 67.63
+    action: navigate
+    eventType: navigation
+  - nodeId: node-9
+    coordinates:
+      x: 94.72
+      'y': 33.36
+    action: navigate
+    eventType: navigation
+  - nodeId: node-10
+    coordinates:
+      x: 69.38
+      'y': 6.2
+    action: navigate
+    eventType: navigation
+  - nodeId: node-11
+    coordinates:
+      x: 53.57
+      'y': 20.2
+    action: navigate
+    eventType: navigation
+  - nodeId: node-12
+    coordinates:
+      x: 93.45
+      'y': 98.8
+    action: navigate
+    eventType: navigation
+  - nodeId: node-13
+    coordinates:
+      x: 13.91
+      'y': 78.2
+    action: navigate
+    eventType: navigation
+  - nodeId: node-14
+    coordinates:
+      x: 37.27
+      'y': 25.58
+    action: navigate
+    eventType: navigation
+  - nodeId: node-15
+    coordinates:
+      x: 2.18
+      'y': 17.84
+    action: navigate
+    eventType: navigation
+  - nodeId: node-16
+    coordinates:
+      x: 53.86
+      'y': 73.68
+    action: navigate
+    eventType: navigation
+  - nodeId: node-17
+    coordinates:
+      x: 11.24
+      'y': 24.01
+    action: navigate
+    eventType: navigation
+  - nodeId: node-18
+    coordinates:
+      x: 83.45
+      'y': 95.72
+    action: navigate
+    eventType: navigation
+  - nodeId: node-19
+    coordinates:
+      x: 1.31
+      'y': 3.69
+    action: navigate
+    eventType: navigation
+edges:
+  - source: node-0
+    target: ../images/favicon.ico
+    action: navigate
+  - source: node-1
+    target: ../styles/style.css
+    action: navigate
+  - source: node-2
+    target: ../styles/dark.css
+    action: navigate
+  - source: node-3
+    target: ../
+    action: navigate
+  - source: node-4
+    target: '#info'
+    action: navigate
+  - source: node-5
+    target: '#source'
+    action: navigate
+  - source: node-6
+    target: '#tree'
+    action: navigate
+  - source: node-7
+    target: ../components/ArticleMetaComponent.html
+    action: navigate
+  - source: node-8
+    target: ../components/FavoriteButtonComponent.html
+    action: navigate
+  - source: node-9
+    target: '#toggleFavorite'
+    action: navigate
+  - source: node-10
+    target: '#article'
+    action: navigate
+  - source: node-11
+    target: Unknown
+    action: navigate
+  - source: node-12
+    target: ../interfaces/Article.html
+    action: navigate
+  - source: node-13
+    target: Unknown
+    action: navigate
+  - source: node-14
+    target: Unknown
+    action: navigate
+  - source: node-15
+    target: '#toggleFavorite'
+    action: navigate
+  - source: node-16
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/boolean
+    action: navigate
+  - source: node-17
+    target: Unknown
+    action: navigate
+  - source: node-18
+    target: >-
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/boolean
+    action: navigate
+  - source: node-19
+    target: 'https://www.typescriptlang.org/docs/handbook/basic-types.html'
+    action: navigate

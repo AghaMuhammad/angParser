@@ -1,0 +1,440 @@
+{
+  "nodes": [
+    {
+      "nodeId": "node-0",
+      "coordinates": {
+        "x": 74.59,
+        "y": 37.19
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-1",
+      "coordinates": {
+        "x": 67.47,
+        "y": 74.09
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-2",
+      "coordinates": {
+        "x": 90.99,
+        "y": 28.34
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-3",
+      "coordinates": {
+        "x": 48.48,
+        "y": 70.07
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-4",
+      "coordinates": {
+        "x": 19.22,
+        "y": 83.72
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-5",
+      "coordinates": {
+        "x": 45.51,
+        "y": 62.35
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-6",
+      "coordinates": {
+        "x": 50.9,
+        "y": 0.63
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-7",
+      "coordinates": {
+        "x": 81.54,
+        "y": 49.8
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-8",
+      "coordinates": {
+        "x": 63.39,
+        "y": 51.09
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-9",
+      "coordinates": {
+        "x": 44.76,
+        "y": 39.11
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-10",
+      "coordinates": {
+        "x": 54.71,
+        "y": 57.06
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-11",
+      "coordinates": {
+        "x": 74.66,
+        "y": 60.03
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-12",
+      "coordinates": {
+        "x": 13.9,
+        "y": 11.48
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-13",
+      "coordinates": {
+        "x": 40.86,
+        "y": 1.7
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-14",
+      "coordinates": {
+        "x": 19.74,
+        "y": 17
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-15",
+      "coordinates": {
+        "x": 13.36,
+        "y": 53.76
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-16",
+      "coordinates": {
+        "x": 77.82,
+        "y": 26.46
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-17",
+      "coordinates": {
+        "x": 63.9,
+        "y": 2.22
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-18",
+      "coordinates": {
+        "x": 77.71,
+        "y": 91.7
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-19",
+      "coordinates": {
+        "x": 35.5,
+        "y": 38.97
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-20",
+      "coordinates": {
+        "x": 89.26,
+        "y": 45.57
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-21",
+      "coordinates": {
+        "x": 10.06,
+        "y": 65.18
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-22",
+      "coordinates": {
+        "x": 77.07,
+        "y": 36.8
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-23",
+      "coordinates": {
+        "x": 66.83,
+        "y": 2.34
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-24",
+      "coordinates": {
+        "x": 66.61,
+        "y": 99.09
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-25",
+      "coordinates": {
+        "x": 19.05,
+        "y": 15.34
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-26",
+      "coordinates": {
+        "x": 51.26,
+        "y": 83.82
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-27",
+      "coordinates": {
+        "x": 64.41,
+        "y": 17.88
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-28",
+      "coordinates": {
+        "x": 55.05,
+        "y": 62.74
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-29",
+      "coordinates": {
+        "x": 52.35,
+        "y": 38.2
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    },
+    {
+      "nodeId": "node-30",
+      "coordinates": {
+        "x": 65.87,
+        "y": 62.67
+      },
+      "action": "navigate",
+      "eventType": "navigation"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-0",
+      "target": "../images/favicon.ico",
+      "action": "navigate"
+    },
+    {
+      "source": "node-1",
+      "target": "../styles/style.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-2",
+      "target": "../styles/dark.css",
+      "action": "navigate"
+    },
+    {
+      "source": "node-3",
+      "target": "../",
+      "action": "navigate"
+    },
+    {
+      "source": "node-4",
+      "target": "#info",
+      "action": "navigate"
+    },
+    {
+      "source": "node-5",
+      "target": "#source",
+      "action": "navigate"
+    },
+    {
+      "source": "node-6",
+      "target": "#bio",
+      "action": "navigate"
+    },
+    {
+      "source": "node-7",
+      "target": "#email",
+      "action": "navigate"
+    },
+    {
+      "source": "node-8",
+      "target": "#image",
+      "action": "navigate"
+    },
+    {
+      "source": "node-9",
+      "target": "#token",
+      "action": "navigate"
+    },
+    {
+      "source": "node-10",
+      "target": "#username",
+      "action": "navigate"
+    },
+    {
+      "source": "node-11",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-12",
+      "target": "#bio",
+      "action": "navigate"
+    },
+    {
+      "source": "node-13",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-14",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-15",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-16",
+      "target": "#email",
+      "action": "navigate"
+    },
+    {
+      "source": "node-17",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-18",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-19",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-20",
+      "target": "#image",
+      "action": "navigate"
+    },
+    {
+      "source": "node-21",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-22",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-23",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-24",
+      "target": "#token",
+      "action": "navigate"
+    },
+    {
+      "source": "node-25",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-26",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-27",
+      "target": "Unknown",
+      "action": "navigate"
+    },
+    {
+      "source": "node-28",
+      "target": "#username",
+      "action": "navigate"
+    },
+    {
+      "source": "node-29",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    },
+    {
+      "source": "node-30",
+      "target": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/string",
+      "action": "navigate"
+    }
+  ]
+}
